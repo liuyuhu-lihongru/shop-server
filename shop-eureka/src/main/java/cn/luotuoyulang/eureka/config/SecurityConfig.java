@@ -22,19 +22,26 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
     protected void configure(HttpSecurity http) throws Exception {
         System.out.println("xiaoliu");
         System.out.println("123");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("xiaoliu");
         System.out.println("123");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("xiaoliu");
         http.csrf().disable();
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         super.configure(http);
         System.out.println("xiaoliu");
         System.out.println("123");
         System.out.println("xiaoliu");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("123");
         System.out.println("sddddd");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("xiaoliu");
         System.out.println("123");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("werwefewf");
+        System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("sddddd");
     }
 }
