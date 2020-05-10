@@ -23,10 +23,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
         System.out.println("xiaoliu");
         System.out.println("123");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
+        System.out.println("李虹茹333");
         System.out.println("xiaoliu");
+        System.out.println("李虹茹555");
         System.out.println("123");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("xiaoliu");
+        System.out.println("李虹茹666");
         http.csrf().disable();
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
         super.configure(http);
@@ -34,6 +37,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
         System.out.println("123");
         System.out.println("xiaoliu");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
+        System.out.println("李虹茹777");
         System.out.println("123");
         System.out.println("sddddd");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
