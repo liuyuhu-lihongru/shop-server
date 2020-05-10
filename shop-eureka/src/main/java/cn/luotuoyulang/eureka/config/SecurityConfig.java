@@ -28,5 +28,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
         System.out.println("xiaoliu");
         System.out.println("xiaoliu");
         System.out.println("xiaoliu");
+        System.out.println("werwefewf");
     }
 }
