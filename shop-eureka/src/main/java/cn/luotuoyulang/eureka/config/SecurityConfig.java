@@ -6,6 +6,8 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
+import java.sql.SQLOutput;
+
 /**
  * @Description TODO
  * @Classname SecurityConfig
@@ -23,10 +25,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
         System.out.println("xiaoliu");
         System.out.println("123");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
+        System.out.println("测试master1");
         System.out.println("李虹茹333");
         System.out.println("xiaoliu");
+        System.out.println("测试master2");
         System.out.println("李虹茹555");
         System.out.println("123");
+        System.out.println("测试master3");
         System.out.println("刘玉虎。。。。。。。。。。。。。。");
         System.out.println("xiaoliu");
         System.out.println("李虹茹666");

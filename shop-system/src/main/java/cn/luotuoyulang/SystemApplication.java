@@ -10,6 +10,8 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @Date 2020/3/2 20:11
  * @Created by liuyuhu
  */
+
+
 @EnableEurekaClient
 @SpringBootApplication
 //@EnableCaching
